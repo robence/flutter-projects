@@ -1,3 +1,0 @@
-[submodule "flutter_counter"]
-	path = flutter_counter
-	url = git@github.com:robence/flutter_counter.git
