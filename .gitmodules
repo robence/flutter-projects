@@ -1,3 +1,6 @@
 [submodule "flutter-counter"]
 	path = flutter-counter
 	url = git@github.com:robence/flutter-counter.git
+[submodule "rive-app"]
+	path = rive-app
+	url = git@github.com:robence/flutter-rive-app.git
