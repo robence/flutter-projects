@@ -4,3 +4,6 @@
 [submodule "rive-app"]
 	path = rive-app
 	url = git@github.com:robence/flutter-rive-app.git
+[submodule "bloc-counter"]
+	path = bloc-counter
+	url = git@github.com:robence/flutter-bloc-counter.git
