@@ -7,3 +7,6 @@
 [submodule "bloc-counter"]
 	path = bloc-counter
 	url = git@github.com:robence/flutter-bloc-counter.git
+[submodule "startup_namer"]
+	path = startup_namer
+	url = git@github.com:robence/startup_namer.git
