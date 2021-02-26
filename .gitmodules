@@ -10,3 +10,6 @@
 [submodule "startup_namer"]
 	path = startup_namer
 	url = git@github.com:robence/startup_namer.git
+[submodule "flutter_friendly_chat"]
+	path = flutter_friendly_chat
+	url = git@github.com:robence/flutter_friendly_chat.git
