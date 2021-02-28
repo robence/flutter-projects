@@ -13,3 +13,6 @@
 [submodule "flutter_friendly_chat"]
 	path = flutter_friendly_chat
 	url = git@github.com:robence/flutter_friendly_chat.git
+[submodule "flutter_login_input"]
+	path = flutter_login_input
+	url = git@github.com:robence/flutter_login_input.git
