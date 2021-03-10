@@ -16,3 +16,6 @@
 [submodule "flutter_login_input"]
 	path = flutter_login_input
 	url = git@github.com:robence/flutter_login_input.git
+[submodule "cupertino_store"]
+	path = cupertino_store
+	url = git@github.com:robence/cupertino_store.git
