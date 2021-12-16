@@ -19,3 +19,6 @@
 [submodule "cupertino_store"]
 	path = cupertino_store
 	url = git@github.com:robence/cupertino_store.git
+[submodule "flutter_i_am_rich"]
+	path = flutter_i_am_rich
+	url = https://github.com/robence/flutter_i_am_rich
