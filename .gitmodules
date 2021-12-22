@@ -22,3 +22,6 @@
 [submodule "flutter_i_am_rich"]
 	path = flutter_i_am_rich
 	url = https://github.com/robence/flutter_i_am_rich
+[submodule "mi_card_flutter"]
+	path = mi_card_flutter
+	url = https://github.com/robence/mi_card_flutter
