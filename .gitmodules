@@ -28,3 +28,6 @@
 [submodule "flutter_dicee"]
 	path = flutter_dicee
 	url = https://github.com/robence/flutter_dicee
+[submodule "flutter_magic_8_ball"]
+	path = flutter_magic_8_ball
+	url = https://github.com/robence/flutter_magic_8_ball
