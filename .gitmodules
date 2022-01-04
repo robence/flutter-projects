@@ -25,3 +25,6 @@
 [submodule "mi_card_flutter"]
 	path = mi_card_flutter
 	url = https://github.com/robence/mi_card_flutter
+[submodule "flutter_dicee"]
+	path = flutter_dicee
+	url = https://github.com/robence/flutter_dicee
