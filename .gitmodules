@@ -31,3 +31,6 @@
 [submodule "flutter_magic_8_ball"]
 	path = flutter_magic_8_ball
 	url = https://github.com/robence/flutter_magic_8_ball
+[submodule "flutter_xylophone"]
+	path = flutter_xylophone
+	url = https://github.com/robence/flutter_xylophone
