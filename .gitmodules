@@ -37,3 +37,6 @@
 [submodule "quizzler_flutter"]
 	path = quizzler_flutter
 	url = https://github.com/robence/quizzler_flutter
+[submodule "flutter_destini"]
+	path = flutter_destini
+	url = https://github.com/robence/flutter_destini
