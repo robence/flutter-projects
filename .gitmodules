@@ -34,3 +34,6 @@
 [submodule "flutter_xylophone"]
 	path = flutter_xylophone
 	url = https://github.com/robence/flutter_xylophone
+[submodule "quizzler_flutter"]
+	path = quizzler_flutter
+	url = https://github.com/robence/quizzler_flutter
