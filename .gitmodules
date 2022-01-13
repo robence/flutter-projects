@@ -40,3 +40,9 @@
 [submodule "flutter_destini"]
 	path = flutter_destini
 	url = https://github.com/robence/flutter_destini
+[submodule "flutter_navigation_demo"]
+	path = flutter_navigation_demo
+	url = https://github.com/robence/flutter_navigation_demo
+[submodule "flutter_bmi_calculator"]
+	path = flutter_bmi_calculator
+	url = https://github.com/robence/flutter_bmi_calculator
