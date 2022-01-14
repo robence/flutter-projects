@@ -46,3 +46,6 @@
 [submodule "flutter_bmi_calculator"]
 	path = flutter_bmi_calculator
 	url = https://github.com/robence/flutter_bmi_calculator
+[submodule "flutter_clima"]
+	path = flutter_clima
+	url = https://github.com/robence/flutter_clima
