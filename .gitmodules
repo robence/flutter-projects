@@ -49,3 +49,6 @@
 [submodule "flutter_clima"]
 	path = flutter_clima
 	url = https://github.com/robence/flutter_clima
+[submodule "flutter_bitcoin_tracker"]
+	path = flutter_bitcoin_tracker
+	url = https://github.com/robence/flutter_bitcoin_tracker
