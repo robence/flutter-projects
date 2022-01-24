@@ -52,3 +52,6 @@
 [submodule "flutter_bitcoin_tracker"]
 	path = flutter_bitcoin_tracker
 	url = https://github.com/robence/flutter_bitcoin_tracker
+[submodule "flutter_flash_chat"]
+	path = flutter_flash_chat
+	url = https://github.com/robence/flutter_flash_chat
